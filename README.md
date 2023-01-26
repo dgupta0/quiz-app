@@ -1,5 +1,5 @@
 # quiz-app
-I completed Scrimba's Module 11 Solo Project using HTML, CSS, Javascript and React. I programmed an a quiz app and used questions 
+I completed Scrimba's Module 11 Solo Project using HTML, CSS, Javascript and React. I programmed a quiz app and fetched questions 
 data from open trivia database API. Then I used react framework; hooks and libraries to write the app features. 
 
 ### Following were the design specs- 
