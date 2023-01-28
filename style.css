@@ -160,8 +160,10 @@ body {
 .loadBar {
     display: none;
     position: fixed;
-    top: 40%;
-    left: 43%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
 
 }
 
